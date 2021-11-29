@@ -1,0 +1,15 @@
+jawaban no 1 :DevOps adalah strategi untuk pengembangan software yang mendorong kerjasama yang erat antara tim software developer dengan dan tim IT operations. Dengan cara ini, perusahaan dapat menyelaraskan orang-orang, proses, dan alat yang digunakan dalam pengembangan software untuk mencapai kepuasan pelanggan.
+jawaban no 2 :
+Continuous integration (CI) adalah pengintegrasian kode ke dalam repositori kode kemudian menjalankan pengujian secara otomatis, cepat, dan sering. Kamu dapat melakukan CI ini dengan menggunakan perintah  commit.
+Sementara continous delivery atau continuous deployment (CD) adalah praktik yang dilakukan setelah proses CI selesai dan seluruh kode berhasil terintegrasi, sehingga aplikasi bisa dibangun lalu dirilis secara otomatis.
+
+Jadi, CI/CD adalah salah satu praktik DevOps yang digunakan untuk pengembangan perangkat lunak menjadi lebih terorganisir. Penggunaan CI/CD pada pengembangan aplikasi memberikan banyak manfaat yang akan langsung terasa oleh tim pengembang. Selain itu, ada banyak pilihan tool atau alat yang dapat digunakan untuk mendukung berjalannya proses CI/CD ini secara otomatis dan aman.
+jawaban no 3 :
+Jenkins merupakan sebuah automasi server berbasis open source yang ditulis menggunakan bahasa Java. Salah satu kegunaan Jenkins adalah untuk mengimplementasikan Continuous Integration dan Continous Delivery atau biasa yang disebut CI/CD proses. lebih jelasnya jenkins memudahkan kita untuk Proses seperti testing, building dan deployment yang dapat dijalankan secara otomatis.
+
+Kelebihan :
+- Mudah di setup
+- Recovery cepat
+
+jawaban no 4 :
+Grep command atau perintah grep merupakan bagian dari sistem operasi Unix dan dikenal sebagai salah satu tool penting yang serba guna. Fungsi dari tool ini adalah untuk melakukan pencarian sebuah pattern dalam file teks yang telah dibuat. Dengan kata lain, penggunaan command grep mempermudah Anda dalam mencari kata atau pattern dan satu atau lebih line yang kemudian akan ditampilkan.
